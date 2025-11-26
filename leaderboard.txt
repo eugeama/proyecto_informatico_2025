@@ -1,0 +1,9 @@
+{
+    "wirtz": 4,
+    "WIRTZ": 1,
+    "acunia": 4,
+    "silly": 2,
+    "Viku": 1,
+    "dedimeu": 6,
+    "carlos palacios": 1
+}

@@ -1,0 +1,7 @@
+0 Piedra
+1 Demonio
+2 Aire
+3 Esponja
+4 Agua
+5 Papel   
+7 Tijera
